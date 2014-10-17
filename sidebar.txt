@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[teg:home|Door43 (teg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-teg|d43-teg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-teg/archive/master.zip|d43-teg.zip]]
+
+**Recent Changes**
+{{changes>ns = teg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/teg|Ethnologue data]]
+
